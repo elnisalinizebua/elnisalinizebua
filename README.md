@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Elni 👋
 
-<!--
-**elnisalinizebua/elnisalinizebua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Graduate  
+📊 Interested in Machine Learning, Data Mining, and Business Intelligence  
+💻 Exploring Git, GitHub, and modern data tools  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Pandas, NumPy, Scikit-Learn)
+- Data Visualization (Matplotlib, Seaborn)
+- Machine Learning (Classification, Clustering)
+- SQL & Databases
+- Business Intelligence (Dashboard & Reporting)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Soon to be added...
+
+## 📫 Contact
+- elnisalinizebua@gmail.com
+Feel free to reach me for collaboration or learning together!
