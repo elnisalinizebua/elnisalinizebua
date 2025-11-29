@@ -12,7 +12,7 @@
 - Business Intelligence (Dashboard & Reporting)
 
 ## 📂 Projects
-- Soon to be added...
+- Student Depression Classifier
 
 ## 📫 Contact
 - elnisalinizebua@gmail.com
